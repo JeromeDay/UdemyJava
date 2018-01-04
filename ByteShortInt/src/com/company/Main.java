@@ -29,7 +29,7 @@ public class Main {
         int myInt = 12;
         short myShort = 12;
         long myLong = 50000 + 10 * (myByte + myInt + myShort);
-        System.out.println(myLong);
+        System.out.println("myLong = " + myLong);
 
 
 
